@@ -1,0 +1,15 @@
+
+#FirstDiv {
+  width: 150px;
+  height: 150px;
+  background: red;
+  position: absolute;
+}
+
+#SecondDiv {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  margin: 14px;
+  position: absolute;
+}
