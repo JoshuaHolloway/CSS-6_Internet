@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  /* background-image: url("spec.png");
+  background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -67,10 +67,39 @@ img {
   /* DEBUG */
   opacity: 0.5;
 }
+/* -------------------------------------------------------------------------- */
+main {
+  height: 700px;
+  background: green;
 
+  /* DEBUG */
+  opacity: 0.5;
+}
+/* -------------------------------------------------------------------------- */
+#col-1 {
+  background: red;
+  height: 700px;
+  width: 234px;
 
+  display: inline-block;;
+  vertical-align: top;
 
+  /* DEBUG */
+  opacity: 0.5;
+}
+/* -------------------------------------------------------------------------- */
+#col-2 {
+  background: yellow;
+  height: 700px;
+  width: 760px;
 
+  display: inline-block;
+  vertical-align: top;
+
+  /* DEBUG */
+  opacity: 0.5;
+}
+/* -------------------------------------------------------------------------- */
 
 
 
