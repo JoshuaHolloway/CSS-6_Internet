@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  /* background-image: url("spec.png");
+  background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -145,7 +145,23 @@ main p {
   margin-top: 24px;
 }
 /* -------------------------------------------------------------------------- */
+#re-invent-img {
+  margin-top: 27px;
+  margin-left: 3px;
+
+  height: 314px;
+}
 /* -------------------------------------------------------------------------- */
+#re-invent-text {
+  margin-top: -297px;
+  margin-left: 2px;
+  margin-right: 18px;
+
+
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
