@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  /* background-image: url("spec.png");
+  background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 /* -------------------------------------------------------------------------- */
 header {
