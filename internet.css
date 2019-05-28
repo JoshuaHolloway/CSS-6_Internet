@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  background-image: url("spec.png");
+  /* background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -50,6 +50,23 @@ img {
   opacity: 0.8;
 }
 
+#net {
+  color: blue;
+}
+/* -------------------------------------------------------------------------- */
+#header-2 {
+  background: orange;
+  height: 62px;
+
+  font-size: 16px;
+
+  padding-top: 10px;
+  padding-left: 19px;
+
+
+  /* DEBUG */
+  opacity: 0.5;
+}
 
 
 
