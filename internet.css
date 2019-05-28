@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  /* background-image: url("spec.png");
+  background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -23,14 +23,14 @@ header {
   width: 1000px;
 
   /* DEBUG */
-  /* opacity: 0.5; */
+  opacity: 0.5;
 }
 /* -------------------------------------------------------------------------- */
 main {
   /* background: blue; */
 
   /* DEBUG */
-  /* opacity: 0.5; */
+  opacity: 0.5;
 }
 /* -------------------------------------------------------------------------- */
 img {
@@ -47,7 +47,7 @@ img {
 
   /* DEBUG */
   /* color: yellow; */
-  /* opacity: 0.8; */
+  opacity: 0.8;
 }
 
 #net {
@@ -56,7 +56,7 @@ img {
 /* -------------------------------------------------------------------------- */
 #header-2 {
   background: orange;
-  height: 62px;
+  height: 52px;
 
   font-size: 16px;
 
@@ -65,7 +65,7 @@ img {
 
 
   /* DEBUG */
-  /* opacity: 0.5; */
+  opacity: 0.5;
 }
 /* -------------------------------------------------------------------------- */
 main {
@@ -73,7 +73,7 @@ main {
   /* background: green; */
 
   /* DEBUG */
-  /* opacity: 0.5; */
+  opacity: 0.5;
 }
 /* -------------------------------------------------------------------------- */
 #col-1 {
@@ -89,7 +89,7 @@ main {
 }
 /* -------------------------------------------------------------------------- */
 #col-2 {
-  /* background: yellow; */
+  background: yellow;
   height: 700px;
   width: 760px;
 
@@ -97,7 +97,32 @@ main {
   vertical-align: top;
 
   /* DEBUG */
-  /* opacity: 0.5; */
+  opacity: 0.5;
+}
+
+#img-home {
+  height: 20px;
+  margin-left: 22px;
+  margin-top: 11px;
+}
+
+#link-DNS {
+  text-decoration: none;
+}
+
+#img-phone {
+  display: inline-block;
+  height: 43px;
+  margin-top: 10px;
+  margin-left: 455px;
+}
+
+#hours {
+  margin-top: 0px;
+  margin-left: 0px;
+
+  display: inline-block;
+  vertical-align: top;
 }
 /* -------------------------------------------------------------------------- */
 #whats-internet {
