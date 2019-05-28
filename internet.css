@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  background-image: url("spec.png");
+  /* background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -168,6 +168,26 @@ main p {
 }
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
+#learn-more-link {
+  background: green;
+  height: 27px;
+  width: 172px;
+  display: block;
+  border-radius: 7px;
+  margin-top: 9px;
+  margin-left: 19px;
+  box-shadow: 8px 4px 5px 0px black;
+  border: 1px black solid;
+  text-decoration: inherit;
+  color: white;
+  padding-top: 6px;
+  padding-left: 6px;
+  font-family: sans-serif;
+  font-size: 18px;
+  z-index: 1;
+  position: relative;
+  text-align: center;
+}
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
