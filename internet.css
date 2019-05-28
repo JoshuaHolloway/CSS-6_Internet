@@ -12,9 +12,9 @@
   width: 1000px;
 
   /* DEBUG */
-  background-image: url("spec.png");
+  /* background-image: url("spec.png");
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
 }
 /* -------------------------------------------------------------------------- */
 header {
@@ -23,14 +23,14 @@ header {
   width: 1000px;
 
   /* DEBUG */
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 /* -------------------------------------------------------------------------- */
 main {
-  background: blue;
+  /* background: blue; */
 
   /* DEBUG */
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 /* -------------------------------------------------------------------------- */
 img {
@@ -46,8 +46,8 @@ img {
   font-size: 47px;
 
   /* DEBUG */
-  color: yellow;
-  opacity: 0.8;
+  /* color: yellow; */
+  /* opacity: 0.8; */
 }
 
 #net {
@@ -65,19 +65,19 @@ img {
 
 
   /* DEBUG */
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 /* -------------------------------------------------------------------------- */
 main {
   height: 700px;
-  background: green;
+  /* background: green; */
 
   /* DEBUG */
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 /* -------------------------------------------------------------------------- */
 #col-1 {
-  background: red;
+  /* background: red; */
   height: 700px;
   width: 234px;
 
@@ -89,7 +89,7 @@ main {
 }
 /* -------------------------------------------------------------------------- */
 #col-2 {
-  background: yellow;
+  /* background: yellow; */
   height: 700px;
   width: 760px;
 
@@ -97,7 +97,7 @@ main {
   vertical-align: top;
 
   /* DEBUG */
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 /* -------------------------------------------------------------------------- */
 #whats-internet {
@@ -121,6 +121,20 @@ main p {
   color: blue;
 }
 /* -------------------------------------------------------------------------- */
+#col-1_link-top, #col-1_link-bottom {
+  width: 198px;
+  height: 38px;
+  display: block;
+  margin-left: 9px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  padding-top: 1px;
+  text-align: center;
+  font-size: 16px;
+}
+#col-1_link-top    { background: red;   margin-top: 16px;}
+#col-1_link-bottom { background: blue;  margin-top: 2px;}
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
 /* -------------------------------------------------------------------------- */
